@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Venkat-teja
 
-![Venkat-teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOMOZ69&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+![Venkat-teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkat-teja-17&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
 ## About Me
 
