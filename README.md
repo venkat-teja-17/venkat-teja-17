@@ -12,9 +12,10 @@ You can find my resume [here](https://github.com/venkat-teja-17/DIGITAL-_-CV.git
 
 ## Projects
 
-- [Harvesting Precision: Innovating Agriculture with Nano Sensor RFID Tags for pH and Moisture Monitoring](https://github.com/MOMOZ69/S-MD-MOINUDDIN_381)
+- [Harvesting Precision: Innovating Agriculture with Nano Sensor RFID Tags for pH and Moisture Monitoring](https://github.com/venkat-teja-17/Harvesting-Precision-Nano-Sensor-RFID-Tags-for-pH-and-Moisture-Monitoring-in-Agriculture.git)
+  
 - [Automatic Video Shot Detection Using Machine Learning](https://github.com/MOMOZ69/RESUME)
-- [PCB Workshop Report](https://github.com/MOMOZ69/PCB-WORKSHOP-REPORT)
+- [PCB Workshop Report](https://github.com/venkat-teja-17/PCB-WORKSHOP.git)
 - [Battery Management System for 6-Series Cell Li-Ion Battery](https://github.com/MOMOZ69/PCB-WORKSHOP-REPORT)
 
 ## Contact
