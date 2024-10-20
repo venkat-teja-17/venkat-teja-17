@@ -16,7 +16,7 @@ You can find my resume [here](https://github.com/venkat-teja-17/DIGITAL-_-CV.git
   
 - [Automatic Video Shot Detection Using Machine Learning](https://github.com/MOMOZ69/RESUME)
 - [PCB Workshop Report](https://github.com/venkat-teja-17/PCB-WORKSHOP.git)
-- [Battery Management System for 6-Series Cell Li-Ion Battery](https://github.com/MOMOZ69/PCB-WORKSHOP-REPORT)
+- [Battery Management System for 6-Series Cell Li-Ion Battery](https://github.com/venkat-teja-17/Battery-Management-for-6-Series-Cell-Li-Ion-Battery.git)
 
 ## Contact
 
