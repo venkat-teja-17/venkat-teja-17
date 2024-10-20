@@ -18,7 +18,7 @@ You can find my resume [here](https://momoz69.github.io/RESUME/).
 
 ## Contact
 
-- [Email](mailto:mtwercavideos@gmail.com)
+- [Email](mailto:venkatteja175@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/moin20)
 
 ## More About Me
@@ -26,8 +26,8 @@ You can find my resume [here](https://momoz69.github.io/RESUME/).
 - 🔭 I’m currently working on: Developing an automatic video shot detection system using deep learning.
 - 🌱 I’m currently learning: Advanced deep learning techniques and computer vision.
 - 👯 I’m looking to collaborate on: Machine learning and open-source projects.
-- 🤔 I’m looking for help with: Improving my deep learning models for video shot detection.
+- 🤔 I’m looking for help with: Improving my Deep-learning models for video shot detection.
 - 💬 Ask me about: Machine learning, precision agriculture, or video analytics.
-- 📫 How to reach me: mtwercavideos@gmail.com
+- 📫 How to reach me: venkatteja175@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems!
