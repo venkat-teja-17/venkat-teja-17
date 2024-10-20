@@ -8,7 +8,7 @@ I am a student passionate about **Machine Learning, Data Analytics, and Open-Sou
 
 ## My Resume
 
-You can find my resume [here](https://momoz69.github.io/RESUME/).
+You can find my resume [here](https://github.com/venkat-teja-17/DIGITAL-_-CV.git).
 
 ## Projects
 
