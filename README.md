@@ -21,7 +21,7 @@ You can find my resume [here](https://github.com/venkat-teja-17/DIGITAL-_-CV.git
 ## Contact
 
 - [Email](mailto:venkatteja175@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/moin20)
+- [LinkedIn](https://www.linkedin.com/in/mude-venkata-teja-282bb4249/)
 
 ## More About Me
 
